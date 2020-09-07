@@ -1,6 +1,6 @@
 cask "floss" do
-  version "2020.02.10"
-  sha256 "6c0465de6567e251778a22b5fb24d76d60000e58a53137fe9ca67514a04eda5b"
+  version "1.5.0-4-g66f67a4"
+  sha256 "cea7dae8d3d5d99c0a27fa1ce45d2580d1719654baba86a7d3ec18953e2a731b"
 
   url "https://s3.amazonaws.com/build-artifacts.floss.flare.fireeye.com/travis/osx/dist/floss"
   name "floss"
